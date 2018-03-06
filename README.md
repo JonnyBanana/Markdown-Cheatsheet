@@ -1,5 +1,5 @@
 # Markdown-Cheatsheet
-A quick reference and showcase (forked from Adam Pritchard Wiki)
+A quick reference and showcase of GitHub Markdown (forked from Adam Pritchard Wiki)
 
 Original Wiki:
 
