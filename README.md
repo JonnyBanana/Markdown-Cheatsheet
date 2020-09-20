@@ -418,3 +418,12 @@ Referencing a bug by #bugID in your git commit links it to the slip. For example
 ---
 
 License: [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
